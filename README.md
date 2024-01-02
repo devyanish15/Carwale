@@ -14,9 +14,7 @@
 >> Home page </br>
 >> ![image](https://user-images.githubusercontent.com/68653820/162595866-03310e82-c7cf-4898-98ce-d4138a3c6272.png)
 
-## The prediction system
-> The prediction form inputs the information of the user and shows the predicted price of the car by our model on the website. As shown.
-> ![image](https://user-images.githubusercontent.com/68653820/162595922-bc513ddd-c3ef-4502-9ada-cfaaac89c3dd.png)
+
 
 ## Requirements
 > Python. </br>
